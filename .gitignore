@@ -1,0 +1,17 @@
+/.editorconfig
+/.idea
+/.php_cs.*
+/.unh.json
+/Makefile
+/vendor
+*~
+*.log
+node_modules
+
+/sitemap.xml
+/sitemap.xml.gz
+
+/wp-content/plugins/hello.php
+/wp-content/plugins/akismet
+/wp-content/themes/twenty*
+
