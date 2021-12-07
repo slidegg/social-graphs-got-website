@@ -1,0 +1,128 @@
+[11-Jun-2020 01:46:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Jun-2020 02:22:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Jun-2020 02:24:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Jun-2020 02:31:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[15-Jul-2020 22:02:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_singular() in /home/aimsharp/public_html/wp-content/themes/aim/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/header.php on line 2
+[23-Jul-2020 11:05:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 11:31:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 11:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 11:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 11:46:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:05:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:05:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:13:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 12:54:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 13:11:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[23-Jul-2020 13:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[02-Aug-2020 15:46:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Sep-2020 16:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Sep-2020 16:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Sep-2020 16:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Sep-2020 16:17:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Sep-2020 16:25:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[11-Sep-2020 16:30:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[12-Sep-2020 08:14:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[13-Sep-2020 19:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[30-Oct-2020 22:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[14-Dec-2020 22:46:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[14-Dec-2020 22:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
+[29-Dec-2020 20:25:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/aimsharp/public_html/wp-content/themes/aim/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/aimsharp/public_html/wp-content/themes/aim/index.php on line 4
