@@ -473,3 +473,22 @@ box-sizing: inherit;
 #footer-nav {
   padding: 0;
 }
+.vc_separator .light {
+  color: white;
+}
+.vc_carousel-inner {
+  text-align: center !important;
+}
+
+.vc_carousel-inner img {
+  background: white;
+}
+.site-footer {
+  padding: 15px !important;
+}
+.site-footer #block-2, .site-footer #block-3 {
+  margin: 0 !important;
+}
+.site-footer p {
+  margin: 0 !important;
+}

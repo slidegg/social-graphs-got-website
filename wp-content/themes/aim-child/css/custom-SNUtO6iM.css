@@ -1994,11 +1994,11 @@ h4.wpb_toggle_title_active:after,
 #colophon .widget_submenu > div > ul li.menu-item-current > a,
 #colophon .widget_nav_menu ul.menu li.menu-item-active > a,
 #colophon .widget_submenu > div > ul li.menu-item-active > a {
-	color: #ab7844;
+	color: #9f9f9f;
 }
 
 .portfolio.hover-default-horizontal-sliding .portfolio-item .image .overlay .links .caption .info span.sep {
-	border-left-color: #ab7844;
+	border-left-color: #9f9f9f;
 }
 
 .portfolio-filters a.active,
@@ -2083,10 +2083,10 @@ body.mobile-cart-position-top #site-header .mobile-cart .minicart-item-count,
 .quick-view-button,
 body .woocommerce .checkout-signin .checkout-create-account button,
 .gem-featured-posts-slider-dots a.selected > span {
-	background-color: #ab7844;
+	background-color: #9f9f9f;
 }
 .quick-view-button {
-	background-color: rgba(171, 120, 68, 0.65);
+	background-color: rgba(159, 159, 159, 0.65);
 }
 .header-style-2 #primary-menu.no-responsive li li.menu-item-current > a,
 .header-style-2 #primary-menu.no-responsive li li.menu-item-active > a,
@@ -2109,10 +2109,10 @@ body .woocommerce .checkout-signin .checkout-create-account button,
 body .widget .tagcloud a:hover,
 .gem-media-grid .vc_gitem-animated-block .vc_gitem-zone-b .vc_separator .vc_sep_holder .vc_sep_line,
 .products .product .product-info .product-rating .empty-rating:before {
-	border-color: #ab7844;
+	border-color: #9f9f9f;
 }
 body .woocommerce-checkout-one-page #customer_details > div:after {
-	border-bottom-color: #ab7844;
+	border-bottom-color: #9f9f9f;
 }
 
 .gallery-item .overlay .subtitle a,
@@ -2691,7 +2691,7 @@ body .quickfinder-item .quickfinder-item-connector,
 
 #primary-menu.no-responsive > li.menu-item-current > a,
 #primary-menu.no-responsive > li.menu-item-active > a {
-	color: #ab7844;
+	color: #9f9f9f;
 }
 
 .header-style-1 #primary-menu.no-responsive > li.menu-item-current > a,
@@ -2761,11 +2761,11 @@ body .quickfinder-item .quickfinder-item-connector,
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul > li span.megamenu-column-header a:hover {
-	color: #ab7844;
+	color: #9f9f9f;
 }
 
 #primary-menu.no-responsive > li.megamenu-enable > ul > li.menu-item-active > span.megamenu-column-header a {
-	color: #ab7844;
+	color: #9f9f9f;
 }
 
 #primary-menu.no-responsive > li li li > a {
@@ -2788,7 +2788,7 @@ body .quickfinder-item .quickfinder-item-connector,
 
 #primary-menu.no-responsive > li li li.menu-item-current > a,
 #primary-menu.no-responsive > li li li.menu-item-active > a {
-	color: #ab7844;
+	color: #9f9f9f;
 }
 
 #primary-menu.no-responsive > li li li.menu-item-current > a,
@@ -2825,7 +2825,7 @@ body .quickfinder-item .quickfinder-item-connector,
 }
 
 #site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger) #primary-menu.no-responsive > li:hover > a {
-	color: #ab7844;
+	color: #9f9f9f;
 }
 
 #site-header:not(.shrink) .header-colors-light:not(.header-layout-fullwidth_hamburger):not(.header-layout-overlay) #primary-menu.no-responsive > li.menu-item-current > a,
